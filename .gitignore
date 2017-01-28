@@ -4,6 +4,9 @@
 # configuration files
 server/config/config.js
 
+#ide
+.idea
+
 # node
 node_modules
 
