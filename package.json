@@ -6,7 +6,7 @@
   "author": "Medhir Bhargava",
   "license": "MIT",
   "scripts": {
-    "postInstall": "./node_modules/bower/bin/bower install",
+    "postInstall": "bower install",
     "start": "node server.js"
   },
   "dependencies": {
