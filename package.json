@@ -6,10 +6,12 @@
   "author": "Medhir Bhargava",
   "license": "MIT",
   "scripts": {
+    "postInstall": "./node_modules/bower/bin/bower install",
     "start": "node server.js"
   },
   "dependencies": {
     "body-parser": "^1.14.1",
+    "bower": "1.8.0",
     "express": "^4.13.3",
     "mongoose": "^4.2.9",
     "morgan": "^1.6.1",

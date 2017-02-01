@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ff1dd80a-eccf-43b9-824e-4aadb60899b2" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/config/app.js" afterPath="$PROJECT_DIR$/server/config/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -54,7 +54,7 @@
         <entry file="file://$PROJECT_DIR$/server/config/config.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
-              <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -70,21 +70,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/server/config/app.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="9" column="2" lean-forward="true" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
-              <folding />
+              <caret line="9" column="2" lean-forward="false" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+              <folding>
+                <marker date="1485909030000" expanded="true" signature="145:296" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="26" lean-forward="false" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
+            <state relative-caret-position="120">
+              <caret line="8" column="51" lean-forward="false" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
               <folding />
             </state>
           </provider>
@@ -132,9 +134,9 @@
         <option value="$PROJECT_DIR$/client/app/controllers/listings.client.controller.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/server.js" />
-        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/server/config/config.js" />
         <option value="$PROJECT_DIR$/server/config/app.js" />
+        <option value="$PROJECT_DIR$/package.json" />
       </list>
     </option>
   </component>
@@ -178,56 +180,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Assignment5" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Assignment5" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Assignment5" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="server" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Assignment5" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Assignment5" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="server" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controllers" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Assignment5" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Assignment5" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="server" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="config" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -316,12 +268,12 @@
       <option name="presentableId" value="Default" />
       <updated>1485306557628</updated>
       <workItem from="1485306560782" duration="6318000" />
-      <workItem from="1485907773879" duration="1236000" />
+      <workItem from="1485907773879" duration="1417000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7554000" />
+    <option name="totallyTimeSpent" value="7735000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="6" />
@@ -534,14 +486,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="26" lean-forward="false" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/server/controllers/coordinates.server.controller.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -569,7 +513,7 @@
     <entry file="file://$PROJECT_DIR$/server/config/config.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -577,7 +521,17 @@
     <entry file="file://$PROJECT_DIR$/server/config/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="9" column="2" lean-forward="true" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+          <caret line="9" column="2" lean-forward="false" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+          <folding>
+            <marker date="1485909030000" expanded="true" signature="145:296" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="51" lean-forward="false" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
           <folding />
         </state>
       </provider>
