@@ -5,6 +5,9 @@
   "main": "server.js",
   "author": "Medhir Bhargava",
   "license": "MIT",
+  "scripts": {
+    "start", "node server.js",
+  },
   "dependencies": {
     "body-parser": "^1.14.1",
     "express": "^4.13.3",
